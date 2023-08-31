@@ -1,6 +1,6 @@
 # Hello, I'm Aftab Ahmad! 👋
 
-I'm a **Web Developer(Python/Django)** based in Punjab,Pakistan. Welcome to my GitHub profile.
+I'm a **Web Developer(Python/Django)** based in Punjab,Pakistan. This is my new account, I have lost my old one. Welcome to my New GitHub profile.
 
 ## About Me
 
