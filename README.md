@@ -7,7 +7,7 @@ I'm a **Web Developer(Python/Django)** based in Punjab,Pakistan. Welcome to my G
 - 🔭 I’m currently working on Django Development.
 - 🌱 I’m currently learning Front-end technologies.
 - 💬 Ask me about Python development, web development, databases, SQL, Front-end technologies.
-- 📫 How to reach me: [![Gmail(https://img.shields.io/badge/LinkedIn-Connect-blue)](aftabaleeahmad@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/aftab-alee-ahmad-853236280/).
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/LinkedIn-Connect-blue)](aftabaleeahmad@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/aftab-alee-ahmad-853236280/).
 
 ## My GitHub Stats
 
